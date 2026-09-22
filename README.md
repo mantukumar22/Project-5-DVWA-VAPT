@@ -13,7 +13,7 @@ Hands-on OWASP Top 10 vulnerability assessment performed against **DVWA (Damn Vu
 | **Name** | Mantu Kumar |
 | **Role** | Cybersecurity Intern |
 | **Program** | ApexPlanet Software Pvt. Ltd. — 60 Days Internship |
-| **Task** | Task 3 — Web Application Security (Days 25–36) |
+| **Task** | Task 5 — Web Application Security (Days 45-60) |
 | **Assessment Dates** | 11 Aug 2026 – 15 Aug 2026 |
 
 ---
